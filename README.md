@@ -95,6 +95,7 @@ The requested document is a historical collection of different screens. An iPhon
 - The application has to be developed using React.
 - For styling, you can use whatever you want. We use styled components at Sketch, but feel free to use what you're more comfortable with.
 - You can upload your solution to GitHub, GitLab, or the service of your preference. If, for privacy reasons, you don't want to publish anything, send us the repo in a ZIP file. Even if you send the code within a ZIP file, make sure it's a GIT repository, and we can see your gradual commits.
+- We won't accept Pull Requests in this repo. Send us your own one or ZIP file as mentioned above.
 - Add a README.md file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions. The app must work as expected following your instructions.
 - We don't want you to spend much time doing the test. We value our team life-work balance. You should not spend more than 2 hours on this test. If you feel it's going to take more, stick to a basic implementation and tell us in the README.md how would you improve the code.
 
