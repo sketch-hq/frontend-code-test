@@ -97,7 +97,7 @@ The requested document is a historical collection of different screens. An iPhon
 - You can upload your solution to GitHub, GitLab, or the service of your preference. If, for privacy reasons, you don't want to publish anything, send us the repo in a ZIP file. Even if you send the code within a ZIP file, make sure it's a GIT repository, and we can see your gradual commits.
 - We won't accept Pull Requests in this repo. Send us the link to your own repo or ZIP file as mentioned above to the mail address at the bottom of this file.
 - Add a README.md file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions. The app must work as expected following your instructions.
-- We don't want you to spend much time doing the test. We value our team life-work balance. You should not spend more than 2 hours on this test. If you feel it's going to take more, stick to a basic implementation and tell us in the README.md how would you improve the code.
+- We value our team life-work balance. Take the time you need to feel comfortable with your solution and do it at your own pace. If you feel that it's taking too much, stick to a basic implementation and tell us in the README.md how would you improve the code.
 
 ## What we will be looking for
 
