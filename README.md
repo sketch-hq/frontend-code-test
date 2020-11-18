@@ -52,7 +52,7 @@ Here you'll find the icon assets of the design.
 
 ## Data
 
-The document that you must show has the shortId `Y8wDM`
+The document that you must show has the id `e981971c-ff57-46dc-a932-a60dc1804992`
 
 Our API is based on GraphQL. The endpoint of our GraphQL API is `https://graphql.sketch.cloud/api`
 
@@ -60,8 +60,8 @@ You don't have to study the schema. Use the following query to get all the data 
 
 ```graphql
 {
-  share(shortId: "Y8wDM") {
-    shortId
+  share(id: "e981971c-ff57-46dc-a932-a60dc1804992") {
+    identifier
     version {
       document {
         name
@@ -109,7 +109,7 @@ The requested document is a historical collection of different screens. An iPhon
 If you've finished the application as it's stated above, send us the code with no problems. But in case you want more challenges, you can add a couple of features (working on the bonus points won't necessarily make us value better your solution):
 
 - Tests.
-- Load different documents depending on the URL. In addition to the default document above, you can query for the one with the shortID `4W43q`
+- Load different documents depending on the URL. In addition to the default document above, you can query for the one with the id `40432a93-5434-4059-87b9-545fd1ad6ee0`
 
 ---
 
