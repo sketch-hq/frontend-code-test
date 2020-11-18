@@ -39,7 +39,7 @@ Notes:
 
 ## Sketch file
 
-You can check the design at https://sketch.cloud/s/z3p4o (see `Document` and `Artboard` artboards.)
+You can check the design at https://www.sketch.com/s/26343997-bb48-43ff-a2f7-bd6bc7ef976c (see `Document` and `Artboard` artboards.)
 
 You can play the prototype to get a better idea of what to develop.
 
