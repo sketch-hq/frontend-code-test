@@ -113,6 +113,4 @@ If you've finished the application as it's stated above, send us the code with n
 
 ---
 
-If you have any doubt, don't hesitate and send us an email (ivan@sketch.com or joanna@sketch.com)
-
 We can't wait to see what you come up with! Thanks for your time!
